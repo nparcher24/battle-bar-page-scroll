@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/battle-bar-page-scroll/static/css/main.c5246797.chunk.css",
+    "main.js": "/battle-bar-page-scroll/static/js/main.1a35055d.chunk.js",
+    "main.js.map": "/battle-bar-page-scroll/static/js/main.1a35055d.chunk.js.map",
+    "runtime-main.js": "/battle-bar-page-scroll/static/js/runtime-main.71111d28.js",
+    "runtime-main.js.map": "/battle-bar-page-scroll/static/js/runtime-main.71111d28.js.map",
+    "static/js/2.b95ffd04.chunk.js": "/battle-bar-page-scroll/static/js/2.b95ffd04.chunk.js",
+    "static/js/2.b95ffd04.chunk.js.map": "/battle-bar-page-scroll/static/js/2.b95ffd04.chunk.js.map",
+    "static/js/3.3e455df8.chunk.js": "/battle-bar-page-scroll/static/js/3.3e455df8.chunk.js",
+    "static/js/3.3e455df8.chunk.js.map": "/battle-bar-page-scroll/static/js/3.3e455df8.chunk.js.map",
+    "index.html": "/battle-bar-page-scroll/index.html",
+    "static/css/main.c5246797.chunk.css.map": "/battle-bar-page-scroll/static/css/main.c5246797.chunk.css.map",
+    "static/js/2.b95ffd04.chunk.js.LICENSE.txt": "/battle-bar-page-scroll/static/js/2.b95ffd04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71111d28.js",
+    "static/js/2.b95ffd04.chunk.js",
+    "static/css/main.c5246797.chunk.css",
+    "static/js/main.1a35055d.chunk.js"
+  ]
+}
