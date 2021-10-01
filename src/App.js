@@ -67,7 +67,7 @@ function MeatAndPotatoes() {
             barName="CHOCOLATE"
             barSubtitle='"MOAB"'
             oppositeSide={false}
-            backgroundColorTwo="#FFFFFF"
+            backgroundColorTwo="transparent"
             lineColor="#F3506A"
             mobileImageURL="https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1633036064/chocolate_bottom_u1rjbq.png"
             desktopImageURL="https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1633036073/chocolate_right_skd8j5.png"
@@ -87,7 +87,7 @@ function MeatAndPotatoes() {
             barName="BLUEBERRY"
             barSubtitle='"Blue Falcon"'
             oppositeSide={false}
-            backgroundColorTwo="#FFFFFF"
+            backgroundColorTwo="transparent"
             lineColor="#5286DB"
             mobileImageURL="https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1633036636/blueberry_bottom_hzqjvu.png"
             desktopImageURL="https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1633036652/blueberry_right_cm4wvw.png"
@@ -107,7 +107,7 @@ function MeatAndPotatoes() {
             barName="STRAWBERRY"
             barSubtitle='"RED"'
             oppositeSide={false}
-            backgroundColorTwo="#FFFFFF"
+            backgroundColorTwo="transparent"
             lineColor="#FB7488"
             mobileImageURL="https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1633047925/strawberry_bottom_hacw4p.png"
             desktopImageURL="https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1633047920/strawberry_side_ap5d0g.png"
@@ -127,7 +127,7 @@ function MeatAndPotatoes() {
             barName="COOKIES & CREAM"
             barSubtitle='"FUBAR"'
             oppositeSide={false}
-            backgroundColorTwo="#FFFFFF"
+            backgroundColorTwo="transparent"
             lineColor="#D7A87B"
             mobileImageURL="https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1633050151/COOKIES_BOTTOM_cxryer.png"
             desktopImageURL="https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1633050166/COOKIES_RIGHT_jpuliy.png"
@@ -150,7 +150,7 @@ function MeatAndPotatoes() {
             backgroundColorTwo="#71E8F4"
             lineColor="#FFFFFF"
             mobileImageURL="https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1633048986/birthday_cake_bottom_ifjavw.png"
-            desktopImageURL="https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1633048981/birthday_cake_right_ifto8c.png"
+            desktopImageURL="https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1633090949/birthday_cake_right_obdmnk.png"
           />
         }
       />
@@ -167,7 +167,7 @@ function MeatAndPotatoes() {
             barName="S'MORES"
             barSubtitle='"FBR"'
             oppositeSide={false}
-            backgroundColorTwo="#FFFFFF"
+            backgroundColorTwo="transparent"
             lineColor="#C5BAB0"
             mobileImageURL="https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1633049680/smores_bottom_f9jmze.png"
             desktopImageURL="https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1633049684/smores_right_daoswm.png"
