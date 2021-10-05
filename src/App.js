@@ -57,9 +57,9 @@ function MeatAndPotatoes() {
           />
         }
       />
-      <div className="w-screen h-screen bg-white" />
+      {/* <div className="w-screen h-screen bg-white" /> */}
       <div className="w-screen h-2 z-10 bg-black" />
-      {/* <BarSection
+      <BarSection
         isOpposite={false}
         barImageUrl={
           "https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1632418156/BB-NEW-PAG-MOAB-V2-B_cumm7i.png"
@@ -176,7 +176,7 @@ function MeatAndPotatoes() {
             desktopImageURL="https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1633049684/smores_right_daoswm.png"
           />
         }
-      /> */}
+      />
 
       {/* <ComponentsBarSection /> */}
       {/* <ComponentsBarSection /> */}
