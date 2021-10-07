@@ -41,6 +41,14 @@ function MeatAndPotatoes() {
 
       <BarSection
         isOpposite={false}
+        callouts={[
+          "Gluten Free",
+          "Owned and operated by American heroes",
+          "Tastes better than your mama's rice crispy treats",
+          "All natural ingredients",
+          "Improves zombie apocalypse survival odds",
+          "Ian, come up with more funny shit",
+        ]}
         barImageUrl={
           "https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1632418163/BB-NEW-PAG-KBAR-V2-D_xih4ko.png"
         }
@@ -61,6 +69,13 @@ function MeatAndPotatoes() {
       <div className="w-screen h-2 z-10 bg-black" />
       <BarSection
         isOpposite={false}
+        callouts={[
+          "Gluten Free",
+          "Owned and operated by American heroes",
+          "Tastes better than your mama's rice crispy treats",
+          "All natural ingredients",
+          "Improves zombie apocalypse survival odds",
+        ]}
         barImageUrl={
           "https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1632418156/BB-NEW-PAG-MOAB-V2-B_cumm7i.png"
         }
@@ -81,6 +96,13 @@ function MeatAndPotatoes() {
 
       <BarSection
         isOpposite={false}
+        callouts={[
+          "Gluten Free",
+          "Owned and operated by American heroes",
+          "Tastes better than your mama's rice crispy treats",
+          "All natural ingredients",
+          "Improves zombie apocalypse survival odds",
+        ]}
         barImageUrl={
           "https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1632418150/BB-NEW-PAG-BF-V2-B_evifxz.png"
         }
@@ -101,6 +123,13 @@ function MeatAndPotatoes() {
 
       <BarSection
         isOpposite={false}
+        callouts={[
+          "Gluten Free",
+          "Owned and operated by American heroes",
+          "Tastes better than your mama's rice crispy treats",
+          "All natural ingredients",
+          "Improves zombie apocalypse survival odds",
+        ]}
         barImageUrl={
           "https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1632418145/BB-NEW-PAG-RED-V2-B_w9zfej.png"
         }
@@ -121,6 +150,13 @@ function MeatAndPotatoes() {
 
       <BarSection
         isOpposite={false}
+        callouts={[
+          "Gluten Free",
+          "Owned and operated by American heroes",
+          "Tastes better than your mama's rice crispy treats",
+          "All natural ingredients",
+          "Improves zombie apocalypse survival odds",
+        ]}
         barImageUrl={
           "https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1632418163/BB-NEW-PAG-FUBAR-V2-B_ccgkx0.png"
         }
@@ -141,6 +177,13 @@ function MeatAndPotatoes() {
 
       <BarSection
         isOpposite={false}
+        callouts={[
+          "Gluten Free",
+          "Owned and operated by American heroes",
+          "Tastes better than your mama's rice crispy treats",
+          "All natural ingredients",
+          "Improves zombie apocalypse survival odds",
+        ]}
         barImageUrl={
           "https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1632418160/BB-NEW-PAG-PR-T-B_enl7kd.png"
         }
@@ -161,6 +204,13 @@ function MeatAndPotatoes() {
 
       <BarSection
         isOpposite={false}
+        callouts={[
+          "Gluten Free",
+          "Owned and operated by American heroes",
+          "Tastes better than your mama's rice crispy treats",
+          "All natural ingredients",
+          "Improves zombie apocalypse survival odds",
+        ]}
         barImageUrl={
           "https://res.cloudinary.com/trainamerican/image/upload/dpr_auto,f_auto,q_auto/v1632418161/BB-NEW-PAG-FBR-V2-B_qqu0xr.png"
         }
