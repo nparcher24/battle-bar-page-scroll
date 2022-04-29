@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -14,4 +14,21 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+} */
+
+@font-face {
+  font-family: "Veneer";
+  src: url("Veneer.woff2") format("woff2"), url("Veneer.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Wildwood";
+  src: url("Wildwood-Medium.woff2") format("woff2"),
+    url("Wildwood-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
 }

@@ -1,0 +1,47 @@
+module.exports = {
+  purge: ["./src/**/*.{js,jsx,ts,tsx}", "./public/index.html"],
+  darkMode: false, // or 'media' or 'class'
+  theme: {
+    extend: {
+      inset: {
+        "1/10": "10%",
+        "1/5": "20%",
+        "2/5": "40%",
+        "3/5": "60%",
+        "4/5": "80%",
+        "1/20": "5%",
+        "1/6": "16.666%",
+        cust: "25%",
+      },
+      height: {
+        "1/10": "10%",
+      },
+      maxHeight: {
+        200: "30rem",
+        300: "35rem",
+      },
+    },
+    textFillColor: (theme) => theme("borderColor"),
+    textStrokeColor: (theme) => theme("borderColor"),
+    textStrokeWidth: (theme) => theme("borderWidth"),
+    paintOrder: {
+      fsm: { paintOrder: "fill stroke markers" },
+      fms: { paintOrder: "fill markers stroke" },
+      sfm: { paintOrder: "stroke fill markers" },
+      smf: { paintOrder: "stroke markers fill" },
+      mfs: { paintOrder: "markers fill stroke" },
+      msf: { paintOrder: "markers stroke fill" },
+    },
+  },
+  variants: {
+    extend: {
+      textFillColor: ["responsive"],
+      textStrokeColor: ["responsive"],
+      textStrokeWidth: ["responsive"],
+      paintOrder: ["responsive"],
+    },
+  },
+  plugins: [
+    require("tailwindcss-text-fill-stroke")(), // no options to configure
+  ],
+};
